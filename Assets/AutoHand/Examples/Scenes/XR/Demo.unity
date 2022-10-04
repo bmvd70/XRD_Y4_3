@@ -171,6 +171,26 @@ MonoBehaviour:
   grabButton: 0
   grabAxis: 2
   squeezeButton: 4
+--- !u!1 &142536618 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7308304668475712710, guid: 5e50eba45ef63694ab6dad66efcbb007,
+    type: 3}
+  m_PrefabInstance: {fileID: 2137085635}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &142536623
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 142536618}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 905b6acf3fe21084db93048338731e06, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SwappingMaterial: {fileID: 7211448773848044386, guid: ab1bd23f3bec2ec48820ee43ba016c6f,
+    type: 3}
 --- !u!1 &186494684
 GameObject:
   m_ObjectHideFlags: 0
@@ -2285,6 +2305,46 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 13.354
+      objectReference: {fileID: 0}
+    - target: {fileID: 1216361097494532059, guid: 5e50eba45ef63694ab6dad66efcbb007,
+        type: 3}
+      propertyPath: OnPlace.m_PersistentCalls.m_Calls.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1216361097494532059, guid: 5e50eba45ef63694ab6dad66efcbb007,
+        type: 3}
+      propertyPath: OnPlace.m_PersistentCalls.m_Calls.Array.data[2].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1216361097494532059, guid: 5e50eba45ef63694ab6dad66efcbb007,
+        type: 3}
+      propertyPath: OnPlace.m_PersistentCalls.m_Calls.Array.data[2].m_Target
+      value: 
+      objectReference: {fileID: 142536623}
+    - target: {fileID: 1216361097494532059, guid: 5e50eba45ef63694ab6dad66efcbb007,
+        type: 3}
+      propertyPath: OnPlace.m_PersistentCalls.m_Calls.Array.data[2].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1216361097494532059, guid: 5e50eba45ef63694ab6dad66efcbb007,
+        type: 3}
+      propertyPath: OnPlace.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Unlock
+      objectReference: {fileID: 0}
+    - target: {fileID: 1216361097494532059, guid: 5e50eba45ef63694ab6dad66efcbb007,
+        type: 3}
+      propertyPath: OnPlace.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
+      value: Swap
+      objectReference: {fileID: 0}
+    - target: {fileID: 1216361097494532059, guid: 5e50eba45ef63694ab6dad66efcbb007,
+        type: 3}
+      propertyPath: OnPlace.m_PersistentCalls.m_Calls.Array.data[2].m_TargetAssemblyTypeName
+      value: SwapMaterials, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 1216361097494532059, guid: 5e50eba45ef63694ab6dad66efcbb007,
+        type: 3}
+      propertyPath: OnPlace.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 1436317644986733248, guid: 5e50eba45ef63694ab6dad66efcbb007,
         type: 3}

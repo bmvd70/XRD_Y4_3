@@ -3,11 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="aaafd15c-e2b5-4010-bc0c-af173387bbeb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.XRD_Y4_3/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.XRD_Y4_3/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/SwapMaterials.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/SwapMaterials.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.XRD_Y4_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.XRD_Y4_3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AutoHand/Scripts/Demo/Demo Scene/UnlockChest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AutoHand/Scripts/Demo/Demo Scene/UnlockChest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ButtonCombination.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ButtonCombination.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,11 +15,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ButtonCombination.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Library/PackageCache/com.unity.xr.interaction.toolkit@2.1.1/Runtime/Locomotion/Teleportation/TeleportationProvider.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/SwapMaterials.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ButtonCombination.cs" />
+        <option value="$PROJECT_DIR$/Assets/AutoHand/Scripts/Demo/Demo Scene/UnlockChest.cs" />
       </list>
     </option>
   </component>
@@ -68,7 +71,7 @@
       <workItem from="1664869353262" duration="59000" />
       <workItem from="1664870587824" duration="71000" />
       <workItem from="1664870854232" duration="1000" />
-      <workItem from="1666536196093" duration="774000" />
+      <workItem from="1666536196093" duration="5609000" />
     </task>
     <servers />
   </component>
@@ -79,5 +82,11 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1517" y="277" key="run.anything.popup" timestamp="1666538568629">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1517" y="277" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1666538568629" />
   </component>
 </project>
